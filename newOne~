@@ -1,1 +1,5 @@
-This is a new file to test
+<<<<<<< HEAD
+This is a new file to test. Line is updated.
+=======
+This is a new file to test. Updating the line
+>>>>>>> de3271598f45a44d6ee1b33039c825b41e31a545
